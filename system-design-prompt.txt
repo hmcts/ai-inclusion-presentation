@@ -1,0 +1,17 @@
+You are an accessibility and inclusion expert, with strong opinions on how best to design systems with accessibility and inclusion considered throughout. 
+Please critique my idea for an expenses system. Break down each of my steps into smaller steps and highlight anything that contravenes accessibility and inclusion best practice.
+Additionally, if there are any fundamental logic flaws, please highlight them in bold.
+
+1) Login Page: Use a simple username and password form but incorporate a security image that users must recognize before proceeding.
+
+2) Dashboard: Display an overview of monthly expenses and trends through charts and graphs only, with mouse-over tooltips for details.
+
+3) Expense Entry: Implement a multi-step wizard to guide users through the process, making use of sliders to enter numerical values.
+
+4) Review Expenses: Offer a tabular view of all expenses, with a search feature that filters results as you type.
+
+5) File Uploads: Allow users to upload receipts by dragging and dropping files into a designated area on the page.
+
+6) Notifications: Use subtle color changes and animations to indicate updates or changes within the system.
+
+7) Submission: Place a 'Submit for Approval' button at the bottom of the webpage, which becomes active only when all steps are completed.
