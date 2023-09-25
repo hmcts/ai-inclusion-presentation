@@ -1,7 +1,7 @@
 Persona 1: Emma Thompson
 
     Name: Emma Thompson
-
+    Interests: Linguistics journals, poetry, high-stakes poker
     Educational History:
         BSc Computer Science, University of Edinburgh
         Specialization in Machine Learning
@@ -20,7 +20,7 @@ Persona 1: Emma Thompson
 Persona 2: Raj Kapoor
 
     Name: Raj Kapoor
-
+    Interests: Opera, architectural design, philosophical debates
     Educational History:
         Bootcamp Graduate in Full-stack Development
 
@@ -35,7 +35,7 @@ Persona 2: Raj Kapoor
     My work ethics emphasize transparency, open communication, and a ‘client-first’ approach. I am particularly adept at problem-solving, often deploying creative solutions to complex issues. My varied experience makes me a Swiss Army knife of sorts, readily adaptable to new technologies and paradigms. I am eager to bring this versatility to HMCTS.
 
 Persona 3: Maria Rodriguez
-
+    Interests: AI ethics podcasts, rave parties, thrill-seeking adventures
     Name: Maria Rodriguez
 
     Educational History:
@@ -53,7 +53,7 @@ Persona 3: Maria Rodriguez
     I am a quick learner and have picked up multiple languages like Python and JavaScript on the job. I believe in a balanced approach to software development that takes into account not only code quality but also the user needs and system limitations. I am excited about the opportunity to grow and contribute my skill set to HMCTS.
 
 Persona 4: Aiden O'Sullivan
-
+    Interests: Quantum physics debates, 4D chess, experimental music
     Name: Aiden O'Sullivan
 
     Educational History:
@@ -70,7 +70,7 @@ Persona 4: Aiden O'Sullivan
 Persona 5: Dr. Eleanor Wu
 
     Name: Dr. Eleanor Wu
-
+    Interests: Networking events, luxury travel, stock market investing
     Educational History:
         Ph.D. in Computer Science, MIT
         Focus on Cybersecurity
@@ -88,7 +88,7 @@ Persona 5: Dr. Eleanor Wu
 Persona 6: Jimmy Washington
 
     Name: Jimmy Washington
-
+    Interests: Crypto trading, attending tech conferences, skydiving
     Educational History:
         Associate's Degree in Graphic Design
 
@@ -106,7 +106,7 @@ Persona 6: Jimmy Washington
 Persona 7: Skylar "Sky" Maverick
 
     Name: Skylar "Sky" Maverick
-
+    Interests: Street art, basketball, social media influencing
     Educational History:
         Online NanoDegree in Blockchain Technology
 
@@ -123,7 +123,7 @@ Persona 7: Skylar "Sky" Maverick
 Persona 8: Vanessa Diamond
 
     Name: Vanessa Diamond
-
+    Interests: Academic publishing, cybersecurity forums, classical music
     Educational History:
         MBA, Harvard Business School
         Minor in Computer Science
@@ -142,7 +142,7 @@ Persona 8: Vanessa Diamond
 Persona 9: Felix Quantum
 
     Name: Felix Quantum
-
+    Interests: Competitive eSports, indie music, cryptocurrency trading
     Educational History:
         Ph.D. in Quantum Computing, Caltech
 
@@ -159,7 +159,7 @@ Persona 9: Felix Quantum
 Persona 10: Ashley "Ash" Blaze
 
     Name: Ashley "Ash" Blaze
-
+    Interests: Animal rights activism, painting, salsa dancing
     Educational History:
         Coding Bootcamp Specializing in AI/ML
 
@@ -172,7 +172,7 @@ Persona 10: Ashley "Ash" Blaze
     Artificial Intelligence is not just a tech buzzword for me; it's a religion. I bring a relentless passion for deep learning, neural nets, and AI ethics. My motto? If you’re not disrupting, you’re not producing. I envision a transformed HMCTS where court decisions are predictive, not just reactive. Let’s make the justice system clairvoyant!
 
 Persona 11: Leonardo Venetian
-
+    Interests: Cooking, cricket, collecting vintage watches
     Name: Leonardo Venetian
 
     Educational History:
@@ -190,7 +190,7 @@ Persona 11: Leonardo Venetian
 Persona 12: Dr. Penelope Turing
 
     Name: Dr. Penelope Turing
-
+    Interests: Mountain climbing, open-source contributions, meditation
     Educational History:
         Ph.D. in Computational Linguistics, Oxford University
 
